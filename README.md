@@ -2,7 +2,7 @@
 
 A single-page website about how the name **Dar Yema** (دار يما), a Maghrebi restaurant at Doha Oasis, Printemps Doha, is written and described for different readers: on its sign, in the Michelin Guide, in a press release and in visitor reviews.
 
-Draft for the Artifact workshop, 76-324 Language and Place.
+76-324 Language and Place.
 
 Created for 76-324 Language and Place, Carnegie Mellon University in Qatar, Fall 2026.
 
